@@ -186,3 +186,4 @@ figcaption{font-size:13px;color:#555;margin-top:8px}
 @media(max-width:900px){.hs-inner{grid-template-columns:1fr;padding:30px 24px;gap:28px}}
 @media(max-width:480px){.hs-proof{grid-template-columns:1fr}}
 @media(max-width:600px){.cs-metrics li:last-child:nth-child(odd){grid-column:1/-1}}
+.hero-spec{font-size:clamp(20px,2.2vw,28px);font-weight:600;letter-spacing:-.01em;line-height:1.25;margin:-10px 0 20px;display:inline-block;border-bottom:3px solid #000;padding-bottom:4px}
